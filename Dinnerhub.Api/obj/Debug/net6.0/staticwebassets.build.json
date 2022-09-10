@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lqRLZaBPx2iRMUj0UtHT+H0zhQ+wlZ+KlNRK7EwWjhI=",
+  "Source": "Dinnerhub.Api",
+  "BasePath": "_content/Dinnerhub.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

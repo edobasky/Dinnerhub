@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\bin\Debug\net6.0\Dinnerhub.Application.deps.json
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\bin\Debug\net6.0\Dinnerhub.Application.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\bin\Debug\net6.0\Dinnerhub.Application.pdb
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\Dinnerhub.Application.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\Dinnerhub.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\Dinnerhub.Application.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\Dinnerhub.Application.AssemblyInfo.cs
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\Dinnerhub.Application.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\Dinnerhub.Application.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\refint\Dinnerhub.Application.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\Dinnerhub.Application.pdb
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\ref\Dinnerhub.Application.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\bin\Debug\net6.0\Dinnerhub.Domain.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\bin\Debug\net6.0\Dinnerhub.Domain.pdb
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Application\obj\Debug\net6.0\Dinnerhub.Application.csproj.CopyComplete

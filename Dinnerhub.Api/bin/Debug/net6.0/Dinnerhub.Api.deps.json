@@ -1,0 +1,74 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dinnerhub.Api/1.0.0": {
+        "dependencies": {
+          "Dinnerhub.Application": "1.0.0",
+          "Dinnerhub.Contracts": "1.0.0",
+          "Dinnerhub.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Dinnerhub.Api.dll": {}
+        }
+      },
+      "Dinnerhub.Application/1.0.0": {
+        "dependencies": {
+          "Dinnerhub.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Dinnerhub.Application.dll": {}
+        }
+      },
+      "Dinnerhub.Contracts/1.0.0": {
+        "runtime": {
+          "Dinnerhub.Contracts.dll": {}
+        }
+      },
+      "Dinnerhub.Domain/1.0.0": {
+        "runtime": {
+          "Dinnerhub.Domain.dll": {}
+        }
+      },
+      "Dinnerhub.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Dinnerhub.Application": "1.0.0"
+        },
+        "runtime": {
+          "Dinnerhub.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dinnerhub.Api/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinnerhub.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinnerhub.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinnerhub.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dinnerhub.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

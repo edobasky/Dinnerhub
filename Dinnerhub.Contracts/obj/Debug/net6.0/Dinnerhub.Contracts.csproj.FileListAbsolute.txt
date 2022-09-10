@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\bin\Debug\net6.0\Dinnerhub.Contracts.deps.json
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\bin\Debug\net6.0\Dinnerhub.Contracts.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\bin\Debug\net6.0\Dinnerhub.Contracts.pdb
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\Dinnerhub.Contracts.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\Dinnerhub.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\Dinnerhub.Contracts.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\Dinnerhub.Contracts.AssemblyInfo.cs
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\Dinnerhub.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\Dinnerhub.Contracts.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\refint\Dinnerhub.Contracts.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\Dinnerhub.Contracts.pdb
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Contracts\obj\Debug\net6.0\ref\Dinnerhub.Contracts.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5zAQID9RQWmqNpZGK+jnrebGjaSPHclL/CANwCgeyaiGxce13x6XNP0vS2WnRhLqpIbkZhqGDy7tcMBJXmekZQ==",
+  "dgSpecHash": "+1oly+a5VGVzDWIKON/RnFsbKBWfHtMoYv/ab2Ij2wdHE18y958TvpyIRU5rxtH4KaZvrCPbDaLsn7k2+gezOQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\hp\\Desktop\\CleanArchitecture\\Dinnerhub\\Dinnerhub.Api\\Dinnerhub.Api.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

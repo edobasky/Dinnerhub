@@ -6,6 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.23.1" />
+  </ItemGroup>
+
    <ItemGroup>
     <ProjectReference Include="..\Dinnerhub.Application\Dinnerhub.Application.csproj" />
   </ItemGroup>

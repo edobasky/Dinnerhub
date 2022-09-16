@@ -20,7 +20,7 @@ namespace Dinnerhub.Application.Services.Authentication
         {
 
             // Check if user already existss
-            //Create user (geberate unique ID)
+            //Create user (generate unique ID)
 
             //Create JWT token
             Guid userId = Guid.NewGuid();

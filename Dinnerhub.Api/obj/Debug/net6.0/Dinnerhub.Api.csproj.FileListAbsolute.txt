@@ -28,3 +28,8 @@ C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\D
 C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\Dinnerhub.Application.pdb
 C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\Dinnerhub.Infrastructure.pdb
 C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\Dinnerhub.Domain.pdb
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\CleanArchitecture\Dinnerhub\Dinnerhub.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
